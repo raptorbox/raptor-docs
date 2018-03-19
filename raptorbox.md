@@ -5,7 +5,7 @@ Raptorbox is an open-source solution for Rapid Prototyping of application for th
 ##Overview
 Raptor is a platform offering a set of tools to easily and quickly connect your devices, making data they generate accessible from the cloud and offering mechanisms to interact with them remotely in order to build your connected solutions and applications.
 
-![Features](RaptorFeatures.png) 
+![Features](https://github.com/raptorbox/raptor-docs/blob/master/RaptorFeatures.png?raw=true) 
 
 ####Raptor offers you specific tools to:
 1. **configure your device** allowing it to communicate and interact with Raptor cloud services in a secure way
@@ -15,7 +15,7 @@ Raptor is a platform offering a set of tools to easily and quickly connect your 
 
 ##Architecture
 The following picture depicts an high level view of Raptor architecture.
-![Architecture](Raptor-Arch.png  "Architecture")
+![Architecture](https://github.com/raptorbox/raptor-docs/blob/master/Raptor-Arch.png?raw=true  "Architecture")
 
 As a rapid prototyping platform, Raptor offers you a graphical web development environment and user interface simplifying the process of configuring and programming your devices in order to allow them to communicate with the cloud and (when needed) make them accessible remotely.
 #####Virtual Devices
@@ -45,7 +45,7 @@ Raptor Workflow Visual Editor is based on a well known open source solution Node
 
 The following picture depicts a detailed view of RaptorBox (Raptor / Raptor Cloud) architecture.
 
-![Raptorbox](Raptorbox2.png  "RaptorBox Architecture")
+![Raptorbox](https://github.com/raptorbox/raptor-docs/blob/master/Raptorbox2.png?raw=true  "RaptorBox Architecture")
 
 RaptorBox as a rapid prototyping platform is a Microservice Architecture. All the components are designed to work independently from other. As security is a big concern in IoT world so the Authentication module is specially designed to keep data secure and provide all the components the authentication to communicate securely. 
 
@@ -81,7 +81,7 @@ Raptor supports user login and token based authentication in order to handle aut
 Users will be able to get credentials for the various entities needing to access specific platform capabilities via Raptor API: credentials are in the form of access tokens, called API Keys, that can be generated and obtained though Raptor user interface.
 
 The following picture explains relationships among users, devices and API keys handled by Raptor.
-![](API_Keys.svg) 
+![](https://github.com/raptorbox/raptor-docs/blob/master/API_Keys.png?raw=true) 
 
 #####Token
 A User can have many Token which can be generated both from the frontend and backend and used in the code.
